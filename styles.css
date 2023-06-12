@@ -4,6 +4,7 @@ body{
     width: 100%; */
 
     /*inline element*/
+    font-size: 1rem;
     text-align: center;
     background: #a2d2ff;
     background: linear-gradient(#a2d2ff, #EFB0C9);
